@@ -19,6 +19,7 @@ li {
 .recommandee {
     font-weight: bold;
     color: seagreen;
+    color: lavenderblush;
 }
 
 .déconseillé {
@@ -42,4 +43,8 @@ em {
 
 #race-vedette {
     color: purple;
+}
+
+#grand-chat {
+    color: rgb(162, 221, 211);
 }
