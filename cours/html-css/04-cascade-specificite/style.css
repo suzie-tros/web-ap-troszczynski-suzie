@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    color: darkslategray;
+}
+
+h1 {
+    color: steelblue;
+}
+
+h2 {
+    color: teal;
+}
+
+li {
+    margin-bottom: 4px;
+}
+
+
+.recommandee {
+    font-weight: bold;
+    color: seagreen;
+}
+
+.déconseillé {
+    font-weight: bold;
+    color: darkred;
+}
+
+em {
+    font-style: italic;
+    color: mistyrose;
+}
+
+.a {
+
+    transition: background-color 0.5s;
+}
+
+.a:hover {
+    background-color: lavenderblush;
+}
+
+#race-vedette {
+    color: purple;
+}
