@@ -19,3 +19,22 @@ li {
     font-weight: bold;
     color: seagreen;
 }
+
+.déconseillé {
+    font-weight: bold;
+    color: darkred;
+}
+
+em {
+    font-style: italic;
+    color: mistyrose;
+}
+
+.a {
+
+    transition: background-color 0.5s;
+}
+
+.a:hover {
+    background-color: lavenderblush;
+}
